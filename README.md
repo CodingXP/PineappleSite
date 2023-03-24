@@ -1,2 +1,0 @@
-# PineappleSite
-Created with CodeSandbox
